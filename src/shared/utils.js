@@ -1,7 +1,7 @@
 /**
  * Checks if we're running in a browser environment.
  */
-export const isBrowser = typeof window !== "undefined" && process.env.browser;
+export const isBrowser = typeof window !== "undefined" && process.browser;
 
 /**
  * Checks whether we're running from a local file system.
