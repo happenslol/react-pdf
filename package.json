@@ -15,6 +15,9 @@
     "prepublishOnly": "yarn clean && yarn build",
     "test": "yarn lint && yarn jest"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "jest": {
     "setupFiles": [
       "<rootDir>/jest.setup.js"
