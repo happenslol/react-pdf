@@ -1,5 +1,5 @@
 {
-  "name": "react-pdf",
+  "name": "@happenslol/react-pdf",
   "version": "4.1.0",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "main": "dist/entry.js",
@@ -16,7 +16,7 @@
     "test": "yarn lint && yarn jest"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/happenslol"
   },
   "jest": {
     "setupFiles": [
