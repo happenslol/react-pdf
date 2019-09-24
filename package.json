@@ -1,6 +1,6 @@
 {
   "name": "@happenslol/react-pdf",
-  "version": "4.1.1",
+  "version": "4.1.2",
   "description": "Display PDFs in your React app as easily as if they were images.",
   "main": "dist/entry.js",
   "source": "src/entry.js",
@@ -127,6 +127,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/happenslol/react-pdf.git"
+    "url": "git://github.com:happenslol/react-pdf.git"
   }
 }
